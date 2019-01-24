@@ -7,7 +7,7 @@ To run this game you need to:
 
 `npm start`
 
-Your game should works at port 8000.
+Your game should work at port 8000.
 
 **Enjoy gameplay!**
 
