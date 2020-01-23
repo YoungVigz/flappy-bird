@@ -1,12 +1,11 @@
 ## Flappy Bird! 
 To run this game you need to: 
 
-`git clone https://github.com/MCgabi/flappy-bird.git` 
-
-`npm install`
-
-`npm start`
-
+```bash
+$ git clone https://github.com/MCgabi/flappy-bird.git
+$ npm install
+$ npm start
+```
 Your game should work at port 8000.
 
 **Enjoy gameplay!**
